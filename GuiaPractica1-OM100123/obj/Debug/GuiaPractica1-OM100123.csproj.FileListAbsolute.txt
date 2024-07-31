@@ -1,0 +1,14 @@
+C:\Users\oscar\OneDrive - Universidad Francisco Gavidia\CICLO 02-2024\PAE0\GuiaPractica1-OM100123\bin\Debug\GuiaPractica1-OM100123.exe.config
+C:\Users\oscar\OneDrive - Universidad Francisco Gavidia\CICLO 02-2024\PAE0\GuiaPractica1-OM100123\bin\Debug\GuiaPractica1-OM100123.exe
+C:\Users\oscar\OneDrive - Universidad Francisco Gavidia\CICLO 02-2024\PAE0\GuiaPractica1-OM100123\bin\Debug\GuiaPractica1-OM100123.pdb
+C:\Users\oscar\OneDrive - Universidad Francisco Gavidia\CICLO 02-2024\PAE0\GuiaPractica1-OM100123\obj\Debug\GuiaPractica1-OM100123.csproj.AssemblyReference.cache
+C:\Users\oscar\OneDrive - Universidad Francisco Gavidia\CICLO 02-2024\PAE0\GuiaPractica1-OM100123\obj\Debug\GuiaPractica1-OM100123.csproj.CoreCompileInputs.cache
+C:\Users\oscar\OneDrive - Universidad Francisco Gavidia\CICLO 02-2024\PAE0\GuiaPractica1-OM100123\obj\Debug\GuiaPractica1-OM100123.exe
+C:\Users\oscar\OneDrive - Universidad Francisco Gavidia\CICLO 02-2024\PAE0\GuiaPractica1-OM100123\obj\Debug\GuiaPractica1-OM100123.pdb
+C:\Users\oscar\OneDrive - Universidad Francisco Gavidia\CICLO 02-2024\POE0\GuiaPractica1-OM100123\bin\Debug\GuiaPractica1-OM100123.exe.config
+C:\Users\oscar\OneDrive - Universidad Francisco Gavidia\CICLO 02-2024\POE0\GuiaPractica1-OM100123\bin\Debug\GuiaPractica1-OM100123.exe
+C:\Users\oscar\OneDrive - Universidad Francisco Gavidia\CICLO 02-2024\POE0\GuiaPractica1-OM100123\bin\Debug\GuiaPractica1-OM100123.pdb
+C:\Users\oscar\OneDrive - Universidad Francisco Gavidia\CICLO 02-2024\POE0\GuiaPractica1-OM100123\obj\Debug\GuiaPractica1-OM100123.csproj.AssemblyReference.cache
+C:\Users\oscar\OneDrive - Universidad Francisco Gavidia\CICLO 02-2024\POE0\GuiaPractica1-OM100123\obj\Debug\GuiaPractica1-OM100123.csproj.CoreCompileInputs.cache
+C:\Users\oscar\OneDrive - Universidad Francisco Gavidia\CICLO 02-2024\POE0\GuiaPractica1-OM100123\obj\Debug\GuiaPractica1-OM100123.exe
+C:\Users\oscar\OneDrive - Universidad Francisco Gavidia\CICLO 02-2024\POE0\GuiaPractica1-OM100123\obj\Debug\GuiaPractica1-OM100123.pdb
