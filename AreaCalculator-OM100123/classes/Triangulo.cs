@@ -6,19 +6,19 @@ using System.Threading.Tasks;
 
 namespace AreaCalculator_OM100123.classes
 {
-    internal class Cuadrado : FiguraGeometrica
+    internal class Triangulo : FiguraGeometrica
     {
+        double trBase, trAltura;
 
-        double lado;
-
-        public Cuadrado(double lado)
+        public Triangulo(double trBase, double trAltura)
         {
-            this.lado = lado;
+            this.trBase = trBase;
+            this.trAltura = trAltura;
         }
 
         public override double CalculateArea()
         {
-            double area = Math.Pow(this.lado, 2);
+            double area = (this.trBase * this.trAltura) / 2;
             return area;
         }
     }

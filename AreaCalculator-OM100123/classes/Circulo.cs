@@ -6,19 +6,18 @@ using System.Threading.Tasks;
 
 namespace AreaCalculator_OM100123.classes
 {
-    internal class Cuadrado : FiguraGeometrica
+    internal class Circulo :  FiguraGeometrica
     {
+        double radio;
 
-        double lado;
-
-        public Cuadrado(double lado)
+        public Circulo(double radio)
         {
-            this.lado = lado;
+            this.radio = radio;
         }
 
         public override double CalculateArea()
         {
-            double area = Math.Pow(this.lado, 2);
+            double area = Math.PI * Math.Pow(this.radio, 2);
             return area;
         }
     }
