@@ -1,7 +1,0 @@
-C:\Users\oscar\Documents\GitHub Projects\ufg-practicas-poe\AreaCalculator-OM100123\bin\Debug\AreaCalculator-OM100123.exe.config
-C:\Users\oscar\Documents\GitHub Projects\ufg-practicas-poe\AreaCalculator-OM100123\bin\Debug\AreaCalculator-OM100123.exe
-C:\Users\oscar\Documents\GitHub Projects\ufg-practicas-poe\AreaCalculator-OM100123\bin\Debug\AreaCalculator-OM100123.pdb
-C:\Users\oscar\Documents\GitHub Projects\ufg-practicas-poe\AreaCalculator-OM100123\obj\Debug\AreaCalculator-OM100123.csproj.AssemblyReference.cache
-C:\Users\oscar\Documents\GitHub Projects\ufg-practicas-poe\AreaCalculator-OM100123\obj\Debug\AreaCalculator-OM100123.csproj.CoreCompileInputs.cache
-C:\Users\oscar\Documents\GitHub Projects\ufg-practicas-poe\AreaCalculator-OM100123\obj\Debug\AreaCalculator-OM100123.exe
-C:\Users\oscar\Documents\GitHub Projects\ufg-practicas-poe\AreaCalculator-OM100123\obj\Debug\AreaCalculator-OM100123.pdb
