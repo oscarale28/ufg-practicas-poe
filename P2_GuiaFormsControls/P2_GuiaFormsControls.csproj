@@ -52,6 +52,18 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="Forms\CheckBox\CheckBoxForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\CheckBox\CheckBoxForm.Designer.cs">
+      <DependentUpon>CheckBoxForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\ComboBox\ComboBoxForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ComboBox\ComboBoxForm.Designer.cs">
+      <DependentUpon>ComboBoxForm.cs</DependentUpon>
+    </Compile>
     <Compile Include="Forms\Controles\Controles.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -64,16 +76,58 @@
     <Compile Include="Forms\ListBoxComboBox\ListBoxComboBox.Designer.cs">
       <DependentUpon>ListBoxComboBox.cs</DependentUpon>
     </Compile>
+    <Compile Include="Forms\ListBox\ListBoxForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ListBox\ListBoxForm.Designer.cs">
+      <DependentUpon>ListBoxForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\NumericUpDown\NumericUpDownForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\NumericUpDown\NumericUpDownForm.Designer.cs">
+      <DependentUpon>NumericUpDownForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Panel\PanelForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Panel\PanelForm.Designer.cs">
+      <DependentUpon>PanelForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\PictureBox\PictureBoxForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\PictureBox\PictureBoxForm.Designer.cs">
+      <DependentUpon>PictureBoxForm.cs</DependentUpon>
+    </Compile>
     <Compile Include="Forms\PruebaLabel\PruebaLabel.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Forms\PruebaLabel\PruebaLabel.Designer.cs">
       <DependentUpon>PruebaLabel.cs</DependentUpon>
     </Compile>
+    <Compile Include="Forms\RadioButton\RadioButtonForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\RadioButton\RadioButtonForm.Designer.cs">
+      <DependentUpon>RadioButtonForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Tooltip\TooltipForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Tooltip\TooltipForm.Designer.cs">
+      <DependentUpon>TooltipForm.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\CheckBox\CheckBoxForm.resx">
+      <DependentUpon>CheckBoxForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\ComboBox\ComboBoxForm.resx">
+      <DependentUpon>ComboBoxForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Forms\Controles\Controles.resx">
       <DependentUpon>Controles.cs</DependentUpon>
@@ -81,8 +135,26 @@
     <EmbeddedResource Include="Forms\ListBoxComboBox\ListBoxComboBox.resx">
       <DependentUpon>ListBoxComboBox.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Forms\ListBox\ListBoxForm.resx">
+      <DependentUpon>ListBoxForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\NumericUpDown\NumericUpDownForm.resx">
+      <DependentUpon>NumericUpDownForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Panel\PanelForm.resx">
+      <DependentUpon>PanelForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\PictureBox\PictureBoxForm.resx">
+      <DependentUpon>PictureBoxForm.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Forms\PruebaLabel\PruebaLabel.resx">
       <DependentUpon>PruebaLabel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\RadioButton\RadioButtonForm.resx">
+      <DependentUpon>RadioButtonForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Tooltip\TooltipForm.resx">
+      <DependentUpon>TooltipForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
